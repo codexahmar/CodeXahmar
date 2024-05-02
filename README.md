@@ -1,6 +1,6 @@
 const ahmar = {
   pronouns: "He" | "Him",
-  age: "19",
+  age: "20",
   askMeAbout: ["web dev"],
   currentFocus: "Learning MERN🍀,
 };
