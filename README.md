@@ -1,6 +1,6 @@
 ![logo](https://github.com/CodeXahmar/CodeXahmar/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Ahmar</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Ahmaryar</h1>
+<h3 align="center">A passionate Web/App Developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexahmar&label=Profile%20views&color=0e75b6&style=flat" alt="codexahmar" /> </p>
 
 - 📫 How to reach me **codexahmar@gmail.com**
@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@codexahmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@codexahmar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/codexahmar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@codexahmar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmaryar khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmaryar khan" height="30" width="40" /></a>
 </p>
 
