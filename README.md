@@ -1,78 +1,114 @@
-![Header Image](https://github.com/CodeXahmar/CodeXahmar/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner.png)
-
-<h1 align="center">Hi 👋, I'm Ahmaryar</h1>
-<h3 align="center">A passionate Web/App Developer from Pakistan</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codexahmar&label=Profile%20views&color=0e75b6&style=flat" alt="codexahmar" />
+  <img src="https://github.com/CodeXahmar/CodeXahmar/blob/main/bg.jpeg" alt="banner" />
 </p>
 
-- 📫 How to reach me: **codexahmar@gmail.com**
+<h1 align="center">Hi 👋, I'm Ahmar Yar Khan</h1>
+<h3 align="center">🚀 MERN Stack Developer | Flutter Enthusiast | Tech Visionary</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=16F7DC&center=true&vCenter=true&width=435&lines=Web+%26+Mobile+App+Developer;Turning+Ideas+into+Reality;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/@codexahmar" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/codexahmar/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="www.linkedin.com/in/ahmaryarkhan" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="center">
+  <a href="https://github.com/CodeXahmar"><img src="https://komarev.com/ghpvc/?username=CodeXahmar&label=Profile%20views&color=blueviolet&style=flat" alt="CodeXahmar" /></a>
 </p>
 
 ---
 
-<h3 align="left">🚀 Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" /> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap" /> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++" /> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" /> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express.js" /> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" /> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" /> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" /> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" /> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" /> 
-  </a> 
+## 🧠 About Me
+
+
+```js
+const Ahmar = {
+  fullName: "Ahmar Yar Khan",
+  role: "Full-Stack Developer",
+  codeLove: ["Flutter 💙", "React ⚛️", "Node.js 🚀"],
+  focus: "Building performant & scalable digital solutions",
+  currentlyLearning: ["Advanced Flutter 🔥", "Design Systems ✨"],
+  hobbies: ["Hiking 🥾", "Gaming 🎮", "Exploring Tech 📚", "Designing UI/UX 🎨"],
+  motto: "Code. Create. Conquer. 🚀"
+};
+```
+
+---
+
+## 🚀 Tech Arsenal
+
+### 💻 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📱 Mobile App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 🛠 Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeXahmar&theme=radical&show_icons=true" alt="CodeXahmar stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeXahmar&theme=radical" alt="streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXahmar&layout=compact&theme=radical" alt="top-langs"/>
+</p>
+
+---
+
+## 🏆 Highlights
+
+- ✅ Developed a **Weather App** with real-time updates using **OpenWeather API**
+- ✅ Built a **COVID Tracker** with dynamic charts and shimmer loading effects
+- ✅ Created a **GitHub Repo Explorer** to visualize any user's public repositories
+- ✅ Implemented a fully working **Flutter + SQLite Shopping Cart App**
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [🌧 Weather App](https://github.com/CodeXahmar/flutter-weather-app) | Flutter, OpenWeather API | Real-time weather, animations & favorites |
+| [💡 Quote App](https://github.com/CodeXahmar/quote-app) | Flutter, JSON, UI Design | Random quote generator with enhanced UI |
+| [📦 GitHub Repos Viewer](https://github.com/CodeXahmar/github-repos-app) | Flutter, GitHub API | Explore GitHub profiles and repos |
+| [🛒 Shopping Cart](https://github.com/CodeXahmar/shopping-cart-sqlite) | Flutter, SQLite | Add, delete & manage cart items offline |
+
+---
+
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="mailto:codexahmar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmaryarkhan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/codexahmar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/codexahmar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codexahmar&show_icons=true&locale=en&layout=compact" alt="codexahmar" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codexahmar&show_icons=true&locale=en" alt="codexahmar" />
-</p>
+---
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexahmar&" alt="codexahmar" />
-</p>
+<p align="center"><b>“Code like a poet, ship like an artist.”</b></p>
