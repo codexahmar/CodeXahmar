@@ -65,11 +65,11 @@ const Ahmar = {
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeXahmar&theme=radical&show_icons=true" alt="CodeXahmar stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeXahmar&theme=radical&show_icons=true" alt="CodeXahmar stats", width=100%/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeXahmar&theme=radical" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeXahmar&theme=radical" alt="streak", width=100%/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXahmar&layout=compact&theme=radical" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXahmar&layout=compact&theme=radical" alt="top-langs", width=100%/>
 </p>
 
 ---
