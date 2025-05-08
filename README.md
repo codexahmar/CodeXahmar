@@ -65,21 +65,23 @@ const Ahmar = {
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeXahmar&theme=radical&show_icons=true" alt="CodeXahmar stats", width=100%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeXahmar&theme=radical&show_icons=true" alt="CodeXahmar stats", width=70%/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeXahmar&theme=radical" alt="streak", width=100%/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeXahmar&theme=radical" alt="streak", width=70%/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXahmar&layout=compact&theme=radical" alt="top-langs", width=100%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXahmar&layout=compact&theme=radical" alt="top-langs", width=70%/>
 </p>
 
 ---
 
 ## 🏆 Highlights
 
-- ✅ Developed a **Weather App** with real-time updates using **OpenWeather API**
-- ✅ Built a **COVID Tracker** with dynamic charts and shimmer loading effects
-- ✅ Created a **GitHub Repo Explorer** to visualize any user's public repositories
-- ✅ Implemented a fully working **Flutter + SQLite Shopping Cart App**
+- ✅ Built an advanced **Quran Mp3 & Qibla Finder** app to support daily Islamic practices  
+- ✅ Created **ShopEase**, an elegant e-commerce app with Stripe payment integration  
+- ✅ Developed **True Wallet**, a secure Flutter banking UI with Firebase integration  
+- ✅ Implemented real-time **Face Detection** using Google ML Kit for expression analysis  
+- ✅ Designed a modern **Dating App UI** with a clean, user-friendly interface  
+- ✅ Built **Pantho**, a smart blood donation app connecting donors with recipients 
 
 ---
 
@@ -91,8 +93,8 @@ const Ahmar = {
 | [🛍️ ShopEase](https://github.com/codexahmar/InternIntelligence_ecommerceApp) | Flutter, Getx, Stripe | A beautifully designed e-commerce app built using Flutter and GetX, featuring a smooth and responsive UI optimized for online shopping experiences with stripe payment integration |
 | [🏦 True Wallet](https://github.com/codexahmar/InternIntelligence_BankingApp) | Flutter, Firebase | A secure banking application built with Flutter and Firebase, featuring money transfers, budget management, and expense tracking. |
 | [📷 Face Detection](https://github.com/codexahmar/InternIntelligence_FaceDetection) | Flutter, Google Ml Kit | This Flutter application uses Google ML Kit to detect faces in images and analyze features such as smile probability and facial expressions to estimate mood. |
-| [📷 Face Detection](https://github.com/codexahmar/Pantho-Freelance) | Flutter, Getx | A modern blood donation application built with Flutter that connects blood donors with those in need. The app features a clean and intuitive user interface with a focus on user experience. |
-| [📷 Dating App](https://github.com/codexahmar/Flutter-Dating-App-Ui) | Flutter | A modern Dating application UI built with Flutter. The app features a clean and intuitive user interface with a focus on user experience. |
+| [🩸 Pantho](https://github.com/codexahmar/Pantho-Freelance) | Flutter, Getx | A modern blood donation application built with Flutter that connects blood donors with those in need. The app features a clean and intuitive user interface with a focus on user experience. |
+| [❤️ Dating App](https://github.com/codexahmar/Flutter-Dating-App-Ui) | Flutter | A modern Dating application UI built with Flutter. The app features a clean and intuitive user interface with a focus on user experience. |
 
 ---
 
