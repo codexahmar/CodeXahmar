@@ -87,10 +87,12 @@ const Ahmar = {
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [🌧 Weather App](https://github.com/CodeXahmar/flutter-weather-app) | Flutter, OpenWeather API | Real-time weather, animations & favorites |
-| [💡 Quote App](https://github.com/CodeXahmar/quote-app) | Flutter, JSON, UI Design | Random quote generator with enhanced UI |
-| [📦 GitHub Repos Viewer](https://github.com/CodeXahmar/github-repos-app) | Flutter, GitHub API | Explore GitHub profiles and repos |
-| [🛒 Shopping Cart](https://github.com/CodeXahmar/shopping-cart-sqlite) | Flutter, SQLite | Add, delete & manage cart items offline |
+| [🕌 Quran Mp3 and Qibla Finder](https://github.com/codexahmar/Quran-Mp3-Qibla-Finder) | Flutter | A comprehensive Islamic application built with Flutter that provides various Islamic features and utilities to help Muslims practice their faith. |
+| [🛍️ ShopEase](https://github.com/codexahmar/InternIntelligence_ecommerceApp) | Flutter, Getx, Stripe | A beautifully designed e-commerce app built using Flutter and GetX, featuring a smooth and responsive UI optimized for online shopping experiences with stripe payment integration |
+| [🏦 True Wallet](https://github.com/codexahmar/InternIntelligence_BankingApp) | Flutter, Firebase | A secure banking application built with Flutter and Firebase, featuring money transfers, budget management, and expense tracking. |
+| [📷 Face Detection](https://github.com/codexahmar/InternIntelligence_FaceDetection) | Flutter, Google Ml Kit | This Flutter application uses Google ML Kit to detect faces in images and analyze features such as smile probability and facial expressions to estimate mood. |
+| [📷 Face Detection](https://github.com/codexahmar/Pantho-Freelance) | Flutter, Getx | A modern blood donation application built with Flutter that connects blood donors with those in need. The app features a clean and intuitive user interface with a focus on user experience. |
+| [📷 Dating App](https://github.com/codexahmar/Flutter-Dating-App-Ui) | Flutter | A modern Dating application UI built with Flutter. The app features a clean and intuitive user interface with a focus on user experience. |
 
 ---
 
