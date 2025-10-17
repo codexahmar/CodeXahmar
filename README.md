@@ -62,22 +62,6 @@ const Ahmar = {
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-  
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeXahmar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeXahmar&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-  </div>
-
-  <!-- Full-width contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeXahmar&theme=tokyo-night&hide_border=true&area=true&height=300" alt="Contribution Graph" style="width: 100%"/>
-
-
-</div>
-
----
 
 ## Highlights
 
