@@ -6,9 +6,9 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/-codexahmar@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=0d1117)](mailto:codexahmar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-ahmaryarkhan-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/ahmaryarkhan)
-[![Twitter](https://img.shields.io/badge/-@codexahmar-0d1117?style=flat-square&logo=x&logoColor=58a6ff&labelColor=0d1117)](https://twitter.com/codexahmar)
+[![Email](https://img.shields.io/badge/-codexahmar@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:codexahmar@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-ahmaryarkhan-0d1117?style=flat-square&logo=linkedin-white&logoColor=0A66C2&labelColor=0d1117)](https://www.linkedin.com/in/ahmaryarkhan)
+[![Twitter](https://img.shields.io/badge/-@codexahmar-0d1117?style=flat-square&logo=x&logoColor=ffffff&labelColor=0d1117)](https://twitter.com/codexahmar)
 [![Profile Views](https://komarev.com/ghpvc/?username=CodeXahmar&style=flat-square&color=58a6ff&label=profile+views&labelColor=0d1117)](https://github.com/CodeXahmar)
 
 </div>
