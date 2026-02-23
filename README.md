@@ -1,109 +1,193 @@
-<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/60ea86a8-6ff8-4378-85e1-38674bbc0520" />
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:58a6ff&height=200&section=header&text=Ahmar%20Yar%20Khan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Engineer%20%C2%B7%20Mobile%20Systems%20Architect&descAlignY=58&descSize=18&descColor=58a6ff&animation=fadeIn" />
 
-<h1 align="center">Hi, I'm Ahmar Yar Khan</h1>
-<h3 align="center">Flutter Developer | Web Developer | AI Enthusiast</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=flutter+create+my_next_big_thing;git+commit+-m+%22shipped+to+production%22;Building+systems+that+scale+%E2%9A%A1;Clean+Architecture+%7C+Real-Time+%7C+Firebase)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=16F7DC&center=true&vCenter=true&width=435&lines=Web+%26+Mobile+App+Developer;Turning+Ideas+into+Reality;Always+Learning" alt="Typing SVG" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/CodeXahmar"><img src="https://komarev.com/ghpvc/?username=CodeXahmar&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" /></a>
-  <img src="https://img.shields.io/github/followers/CodeXahmar?label=Followers&style=flat-square&color=blueviolet" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/CodeXahmar?label=Stars&style=flat-square&color=blueviolet" alt="GitHub Stars" />
-</p>
+[![Email](https://img.shields.io/badge/-codexahmar@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=0d1117)](mailto:codexahmar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-ahmaryarkhan-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/ahmaryarkhan)
+[![Twitter](https://img.shields.io/badge/-@codexahmar-0d1117?style=flat-square&logo=x&logoColor=58a6ff&labelColor=0d1117)](https://twitter.com/codexahmar)
+[![Profile Views](https://komarev.com/ghpvc/?username=CodeXahmar&style=flat-square&color=58a6ff&label=profile+views&labelColor=0d1117)](https://github.com/CodeXahmar)
+
+</div>
 
 ---
 
-## About Me
+## `$ whoami`
+```dart
+class AhmarYarKhan extends FlutterEngineer {
 
-```js
-const Ahmar = {
-  fullName: "Ahmar Yar Khan",
-  role: "Full-Stack Developer",
-  codeLove: ["Flutter", "React", "Node.js"],
-  focus: "Building performant & scalable digital solutions",
-  currentlyLearning: ["Advanced Flutter", "Design Systems"],
-  hobbies: ["Hiking", "Gaming", "Exploring Tech", "Designing UI/UX"],
-  motto: "Code. Create. Conquer."
-};
+  final String  location       = "Pakistan 🇵🇰";
+  final String  role           = "Mobile App Developer";
+  final String  focus          = "Scalable Production Applications";
+
+  final List<String> strengths = [
+    "Clean Architecture",
+    "Real-Time Systems",
+    "Firebase Integration",
+    "Performance Optimization",
+    "Cross-Platform Mobile Development",
+  ];
+
+  final bool    openToWork     = true;
+  final String  currentStatus  = "⚡ Shipping features, not excuses.";
+}
 ```
 
 ---
 
-## Tech Arsenal
+## `$ cat tech_stack.yaml`
+```yaml
+mobile:
+  - Flutter
+  - Dart
+  - Android SDK
+  - iOS / Swift
 
-### 💻 Web Development 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+backend:
+  - Firebase (Auth, Firestore, FCM, Storage)
+  - Node.js + Express
+  - MongoDB
+  - REST APIs
 
-### 📱 Mobile App Development 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
-
-### ⚙️ Backend & Database 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) 
-
-### 🛠 Tools & Platforms 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+tooling:
+  - Git + GitHub Actions
+  - Figma
+  - Postman
+  - VS Code
+  - Android Studio
+```
 
 ---
 
+## `$ ls -la projects/`
 
-## Highlights
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Built an advanced **Quran Mp3 & Qibla Finder** app to support daily Islamic practices  
-- Created **StripeCart**, an elegant e-commerce app with **Stripe payment integration**  
-- Developed **Budgetly**, a Flutter expense management app with **Firebase integration**  
-- Implemented real-time **Face Detection** using **Google ML Kit** for expression analysis  
-- Designed a modern **Dating App UI** with a clean, user-friendly interface  
-- Built **Pantho**, a smart blood donation app Ui toolkit connecting donors with recipients  
-- Developed **SafeTap**, a security-focused emergency app with role-based login, FCM alerts, real-time location sharing, and incident reporting  
-- Created **Smart UI Kit**, a customizable Flutter UI components library including **SmartButton, SmartDialog, SmartTile**, and more  
+### 🔐 SafeTap
+> Emergency response mobile application
+```
+▸ Role-based authentication system
+▸ FCM push notifications for alerts
+▸ Real-time GPS location tracking
+▸ Incident reporting + media upload
+▸ Offline-first architecture
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 StripeCart
+> Full-featured Flutter e-commerce app
+```
+▸ Stripe payment gateway integration
+▸ Cart management + order history
+▸ Clean, testable architecture
+▸ Smooth animated checkout UX
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 Quran Mp3 + Qibla Finder
+> Comprehensive Islamic companion app
+```
+▸ Full Quran audio recitations
+▸ Accurate prayer time notifications
+▸ Compass-based Qibla direction
+▸ Hijri calendar integration
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Face Detection App
+> ML-powered real-time vision app
+```
+▸ Google ML Kit integration
+▸ Real-time face detection
+▸ Emotion / expression analysis
+▸ Camera stream processing
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+## `$ github --trophies`
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| [**Quran Mp3 & Qibla Finder**](https://github.com/codexahmar/Quran-Mp3-Qibla-Finder) | Flutter | Comprehensive Islamic app providing Quran recitations, prayer times, and Qibla direction. |
-| [**StripeCart**](https://github.com/codexahmar/StripeCart) | Flutter • GetX • Stripe | Elegant e-commerce app with smooth UI and Stripe payment integration. |
-| [**Budgetly**](https://github.com/codexahmar/Budgetly) | Flutter • Firebase | Secure banking app with transfers, budget management, and expense tracking. |
-| [**Face Detection**](https://github.com/codexahmar/FaceDetection-App) | Flutter • Google ML Kit | Detects faces and analyzes expressions in real-time using ML Kit. |
-| [**Pantho**](https://github.com/codexahmar/Blood-Donation-App-UI) | Flutter • GetX | Blood donation app connecting donors with recipients via a clean, intuitive UI. |
-| [**Dating App UI**](https://github.com/codexahmar/Flutter-Dating-App-Ui) | Flutter | Modern dating app UI focusing on user-friendly design and experience. |
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeXahmar&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 📬 Let's Connect
+## `$ git log --stat`
 
-<p align="center">
-  <a href="mailto:codexahmar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ahmaryarkhan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/codexahmar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/codexahmar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<div align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=CodeXahmar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
+<img height="160" src="https://streak-stats.demolab.com?user=CodeXahmar&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+<br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXahmar&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+
+</div>
 
 ---
 
-<p align="center"><b>"Code like a poet, ship like an artist."</b></p>
+## `$ cat summary_cards`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeXahmar&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeXahmar&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeXahmar&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeXahmar&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeXahmar&theme=github_dark&utcOffset=5" />
+
+</div>
+
+---
+
+## `$ watch contribution-graph --animate`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeXahmar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1f35&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `$ snake --eat-contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer&text=Engineering+Mobile+Systems+That+Scale&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+</div>
