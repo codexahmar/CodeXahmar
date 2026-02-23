@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/CodeXahmar/CodeXahmar/blob/main/bg.jpeg" alt="banner" />
-</p>
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/60ea86a8-6ff8-4378-85e1-38674bbc0520" />
+
 
 <h1 align="center">Hi, I'm Ahmar Yar Khan</h1>
 <h3 align="center">Flutter Developer | Web Developer | AI Enthusiast</h3>
