@@ -120,30 +120,6 @@ tooling:
 </tr>
 </table>
 
----
-
-## `$ github --trophies`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeXahmar&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## `$ git log --stat`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=CodeXahmar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
-<img height="160" src="https://streak-stats.demolab.com?user=CodeXahmar&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXahmar&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-
-</div>
 
 ---
 
