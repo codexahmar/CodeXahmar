@@ -222,7 +222,7 @@ class AhmarYarKhan extends FlutterEngineer {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#58a6ff', 'primaryTextColor':'#ffffff', 'secondaryTextColor':'#ffffff', 'tertiaryTextColor':'#ffffff', 'primaryBorderColor':'#58a6ff', 'lineColor':'#58a6ff', 'secondaryColor':'#1a1f35', 'tertiaryColor':'#0d1117', 'noteBkgColor':'#58a6ff', 'noteTextColor':'#ffffff', 'textColor':'#ffffff', 'mainBkg':'#58a6ff', 'secondBkg':'#1a1f35', 'tertiaryBorderColor':'#58a6ff', 'fontSize':'16px', 'fontFamily':'Arial', 'darkMode':'true'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1a1f35', 'primaryTextColor':'#ffffff', 'secondaryTextColor':'#ffffff', 'tertiaryTextColor':'#ffffff', 'primaryBorderColor':'#58a6ff', 'lineColor':'#58a6ff', 'secondaryColor':'#0d1117', 'secondaryBorderColor':'#58a6ff', 'tertiaryColor':'#1a1f35', 'tertiaryBorderColor':'#58a6ff', 'textColor':'#ffffff', 'mainBkg':'#0d1117', 'secondBkg':'#1a1f35', 'border1':'#58a6ff', 'border2':'#58a6ff', 'fontSize':'16px', 'fontFamily':'Arial'}}}%%
 mindmap
   root((Mobile Dev Expertise))
     Flutter
