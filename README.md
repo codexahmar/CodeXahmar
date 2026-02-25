@@ -222,30 +222,57 @@ class AhmarYarKhan extends FlutterEngineer {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1a1f35', 'primaryTextColor':'#ffffff', 'secondaryTextColor':'#ffffff', 'tertiaryTextColor':'#ffffff', 'primaryBorderColor':'#58a6ff', 'lineColor':'#58a6ff', 'secondaryColor':'#0d1117', 'secondaryBorderColor':'#58a6ff', 'tertiaryColor':'#1a1f35', 'tertiaryBorderColor':'#58a6ff', 'textColor':'#ffffff', 'mainBkg':'#0d1117', 'secondBkg':'#1a1f35', 'border1':'#58a6ff', 'border2':'#58a6ff', 'fontSize':'16px', 'fontFamily':'Arial'}}}%%
-mindmap
-  root((Mobile Dev Expertise))
-    Flutter
-      Clean Architecture
-      State Management
-      BLoC Pattern
-      Provider
-      GetX
-    Backend
-      Firebase Suite
-      Node.js APIs
-      MongoDB
-      Real-time Systems
-    Integration
-      Payment Gateways
-      Maps & Location
-      Push Notifications
-      ML Kit
-    Development
-      CI/CD
-      Testing
-      Performance
-      Security
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#161b22', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#58a6ff', 'lineColor':'#58a6ff', 'secondaryColor':'#0d1117', 'tertiaryColor':'#161b22', 'clusterBkg':'#161b22', 'clusterBorder':'#58a6ff', 'fontSize':'18px'}}}%%
+graph TB
+    A[Mobile Dev Expertise]
+    
+    A --> B[Flutter Development]
+    B --> B1[Clean Architecture]
+    B --> B2[State Management]
+    B --> B3[BLoC Pattern]
+    B --> B4[Provider]
+    B --> B5[GetX]
+    
+    A --> C[Backend Systems]
+    C --> C1[Firebase Suite]
+    C --> C2[Node.js APIs]
+    C --> C3[MongoDB]
+    C --> C4[Real-time Systems]
+    
+    A --> D[Integration]
+    D --> D1[Payment Gateways]
+    D --> D2[Maps & Location]
+    D --> D3[Push Notifications]
+    D --> D4[ML Kit]
+    
+    A --> E[Development Practices]
+    E --> E1[CI/CD]
+    E --> E2[Testing]
+    E --> E3[Performance]
+    E --> E4[Security]
+    
+    style A fill:#58a6ff,stroke:#58a6ff,stroke-width:3px,color:#ffffff
+    style B fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#ffffff
+    style C fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#ffffff
+    style D fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#ffffff
+    style E fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#ffffff
+    style B1 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style B2 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style B3 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style B4 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style B5 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style C1 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style C2 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style C3 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style C4 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style D1 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style D2 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style D3 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style D4 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style E1 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style E2 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style E3 fill:#0d1117,stroke:#58a6ff,color:#ffffff
+    style E4 fill:#0d1117,stroke:#58a6ff,color:#ffffff
 ```
 
 </div>
