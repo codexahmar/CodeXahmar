@@ -222,7 +222,7 @@ class AhmarYarKhan extends FlutterEngineer {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#58a6ff', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#58a6ff', 'lineColor':'#58a6ff', 'secondaryColor':'#1a1f35', 'tertiaryColor':'#0d1117', 'fontSize':'16px', 'fontFamily':'Arial'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#58a6ff', 'primaryTextColor':'#ffffff', 'secondaryTextColor':'#ffffff', 'tertiaryTextColor':'#ffffff', 'primaryBorderColor':'#58a6ff', 'lineColor':'#58a6ff', 'secondaryColor':'#1a1f35', 'tertiaryColor':'#0d1117', 'noteBkgColor':'#58a6ff', 'noteTextColor':'#ffffff', 'textColor':'#ffffff', 'mainBkg':'#58a6ff', 'secondBkg':'#1a1f35', 'tertiaryBorderColor':'#58a6ff', 'fontSize':'16px', 'fontFamily':'Arial', 'darkMode':'true'}}}%%
 mindmap
   root((Mobile Dev Expertise))
     Flutter
