@@ -44,7 +44,7 @@ class AhmarYarKhan extends FlutterEngineer {
 
 ---
 
-## `$ github-stats --display`
+## 📊 GitHub Statistics & Achievements
 
 <div align="center">
 
@@ -61,13 +61,13 @@ class AhmarYarKhan extends FlutterEngineer {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeXahmar&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=CodeXahmar&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## `$ cat tech_stack.yaml`
+## 🛠️ Technology Stack & Expertise
 
 <div align="center">
 
@@ -102,7 +102,7 @@ class AhmarYarKhan extends FlutterEngineer {
 
 ---
 
-## `$ ls -la projects/`
+## 🚀 Featured Projects Portfolio
 
 <div align="center">
 
@@ -189,11 +189,11 @@ class AhmarYarKhan extends FlutterEngineer {
 
 ---
 
-## `$ cat detailed_analytics`
+## 📈 Detailed Analytics & Insights
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeXahmar&theme=github_dark" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeXahmar&theme=github_dark" />
 
 </div>
 
@@ -209,7 +209,7 @@ class AhmarYarKhan extends FlutterEngineer {
 
 ---
 
-## `$ visualize --skills-matrix`
+## 💻 Skills & Competency Matrix
 
 <div align="center">
 
@@ -222,10 +222,9 @@ class AhmarYarKhan extends FlutterEngineer {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#58a6ff', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#58a6ff', 'lineColor':'#58a6ff', 'secondaryColor':'#1a1f35', 'tertiaryColor':'#0d1117', 'fontSize':'16px', 'fontFamily':'Arial'}}}%%
 mindmap
-  root((Mobile Dev
-    Expertise))
+  root((Mobile Dev Expertise))
     Flutter
       Clean Architecture
       State Management
@@ -253,7 +252,7 @@ mindmap
 
 ---
 
-## `$ watch contribution-graph --animate`
+## 📅 Contribution Activity Timeline
 
 <div align="center">
 
@@ -263,7 +262,7 @@ mindmap
 
 ---
 
-## `$ git log --recent-activity`
+## ⚡ Recent GitHub Activity
 
 <div align="center">
 
@@ -276,7 +275,7 @@ mindmap
 
 ---
 
-## `$ snake --eat-contributions`
+## 🐍 Contribution Snake Animation
 
 <div align="center">
 
