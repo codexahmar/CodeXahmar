@@ -11,55 +11,77 @@
 
 </div>
 
----
+## Field Notes
 
-## `$ whoami`
-```dart
-class AhmarYarKhan extends FlutterEngineer {
-
-  final String  location       = "Pakistan 🇵🇰";
-  final String  role           = "Mobile App Developer";
-  final String  focus          = "Scalable Production Applications";
-
-  final List<String> strengths = [
-    "Clean Architecture",
-    "Real-Time Systems",
-    "Firebase Integration",
-    "Performance Optimization",
-    "Cross-Platform Mobile Development",
-  ];
-
-  final bool    openToWork     = true;
-  final String  currentStatus  = "⚡ Shipping features, not excuses.";
-}
+```text
+name: Ahmar Yar Khan
+base: Pakistan
+craft: Mobile apps with Flutter
+current mission: build fast, reliable products users trust
+availability: open to serious product teams
 ```
 
----
+| Signal | Value |
+|---|---|
+| Stack I use most | Flutter, Dart, Firebase |
+| Typical features | Auth, payments, maps, notifications, realtime sync |
+| What I optimize first | UX smoothness, startup time, crash-free sessions |
+| Rule I don't break | Solve user pain before adding architecture layers |
 
-## 📊 GitHub Statistics & Achievements
+## How I Work
 
-<div align="center">
+<details>
+<summary><b>01. Product first, patterns second</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeXahmar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXahmar&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+I start from the user flow and business risk, then choose architecture that earns its complexity.
 
-</div>
+</details>
 
-<div align="center">
+<details>
+<summary><b>02. Performance is a feature</b></summary>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CodeXahmar&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&dates=C9D1D9&sideLabels=C9D1D9)](https://git.io/streak-stats)
+I treat dropped frames, slow startup, and flaky networking as product bugs, not "nice to have" improvements.
 
-</div>
+</details>
 
-<div align="center">
+<details>
+<summary><b>03. Build for real operations</b></summary>
 
-<img src="https://github-profile-trophy.vercel.app/?username=CodeXahmar&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+Mobile is part of a bigger system. I care about API contracts, release quality, analytics, and incident recovery.
 
-</div>
+</details>
 
----
+## Signature Builds
 
-## 🛠️ Technology Stack & Expertise
+### SafeTap
+Emergency-response app where speed and reliability mattered more than visual polish.
+
+- Role-based emergency workflows
+- Live location and alert propagation
+- Incident reporting with media evidence
+
+### StripeCart
+E-commerce flow designed to reduce checkout friction and failed payments.
+
+- Stripe integration with predictable edge-case handling
+- Cart and order state that survives bad networks
+- Conversion-focused checkout journey
+
+### Quran MP3 + Qibla Finder
+Daily-use companion app where reliability and clarity mattered more than flashy UI.
+
+- Streaming recitation and prayer alerts
+- Compass-based Qibla direction
+- Hijri calendar and multi-language support
+
+### Face Detection App
+Real-time computer vision app built around on-device responsiveness.
+
+- ML Kit face detection pipeline
+- Fast camera frame handling
+- Lightweight on-device feedback loop
+
+## Tools I Reach For
 
 <div align="center">
 
@@ -101,112 +123,12 @@ mindmap
 
 </div>
 
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeXahmar&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeXahmar&theme=github_dark" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeXahmar&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeXahmar&theme=github_dark&utcOffset=5" />
-
-</div>
-
----
-
-## 💻 Skills & Competency Matrix
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,firebase,nodejs,mongodb,express,git,github,figma,vscode,androidstudio,postman,swift&perline=7" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#161b22', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#58a6ff', 'lineColor':'#58a6ff', 'secondaryColor':'#0d1117', 'tertiaryColor':'#161b22', 'clusterBkg':'#161b22', 'clusterBorder':'#58a6ff', 'fontSize':'18px'}}}%%
-graph TB
-    A[Mobile Dev Expertise]
-    
-    A --> B[Flutter Development]
-    B --> B1[Clean Architecture]
-    B --> B2[State Management]
-    B --> B3[BLoC Pattern]
-    B --> B4[Provider]
-    B --> B5[GetX]
-    
-    A --> C[Backend Systems]
-    C --> C1[Firebase Suite]
-    C --> C2[Node.js APIs]
-    C --> C3[MongoDB]
-    C --> C4[Real-time Systems]
-    
-    A --> D[Integration]
-    D --> D1[Payment Gateways]
-    D --> D2[Maps & Location]
-    D --> D3[Push Notifications]
-    D --> D4[ML Kit]
-    
-    A --> E[Development Practices]
-    E --> E1[CI/CD]
-    E --> E2[Testing]
-    E --> E3[Performance]
-    E --> E4[Security]
-    
-    style A fill:#58a6ff,stroke:#58a6ff,stroke-width:3px,color:#ffffff
-    style B fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#ffffff
-    style C fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#ffffff
-    style D fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#ffffff
-    style E fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#ffffff
-    style B1 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style B2 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style B3 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style B4 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style B5 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style C1 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style C2 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style C3 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style C4 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style D1 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style D2 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style D3 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style D4 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style E1 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style E2 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style E3 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-    style E4 fill:#0d1117,stroke:#58a6ff,color:#ffffff
-```
-
-</div>
-
----
-
-## 📅 Contribution Activity Timeline
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeXahmar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1f35&hide_border=true&custom_title=Contribution%20Activity&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ⚡ Recent GitHub Activity
-
-<div align="center">
-
-[![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=CodeXahmar&custom_title=Recent%20Contributions&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&area_color=1a1f35)](https://github.com/CodeXahmar)
+## Activity Feed
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
+## Contribution Pulse
 
 <div align="center">
 
