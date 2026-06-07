@@ -1,157 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,45:1d4ed8,100:22d3ee&height=210&section=header&text=AHMAR%20YAR%20KHAN&fontSize=44&fontColor=f8fafc&fontAlignY=40&desc=Mobile%20Systems%20Engineer%20%7C%20Flutter%20Specialist&descSize=17&descAlignY=61&descColor=e2e8f0&animation=fadeIn" />
+<img width="100%" src="./assets/profile-banner.png" alt="Ahmar Yar Khan - Flutter Developer and Mobile App Engineer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=I+build+mobile+apps+people+actually+keep+installed;Fast+UI%2C+clean+code%2C+zero+drama+releases;Flutter+%2B+Firebase+%2B+real+product+constraints;Still+obsessed+with+first-frame+performance)](https://git.io/typing-svg)
+<br />
 
-[![Email](https://img.shields.io/badge/Email-codexahmar%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:codexahmar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmaryarkhan-0f172a?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/ahmaryarkhan)
-[![X](https://img.shields.io/badge/X-%40codexahmar-0f172a?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/codexahmar)
-[![Profile Views](https://komarev.com/ghpvc/?username=CodeXahmar&style=for-the-badge&color=22d3ee&labelColor=0f172a)](https://github.com/CodeXahmar)
+# Ahmar Yar Khan
+
+### Flutter Developer | Mobile App Engineer | MERN Developer
+
+I build reliable, user-focused mobile applications with Flutter, Firebase, and native platform integrations.
+
+[![Email](https://img.shields.io/badge/Email-codexahmar%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:codexahmar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmar_Yar_Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmaryarkhan)
+[![GitHub](https://img.shields.io/badge/GitHub-CodeXahmar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeXahmar)
+[![Profile Views](https://komarev.com/ghpvc/?username=CodeXahmar&style=flat-square&color=2563EB)](https://github.com/CodeXahmar)
 
 </div>
 
-## Field Notes
+## Professional Summary
 
-```text
-name: Ahmar Yar Khan
-base: Pakistan
-craft: Mobile apps with Flutter
-current mission: build fast, reliable products users trust
-availability: open to serious product teams
-```
+I am a **mobile application developer with 2+ years of professional experience**, specializing in **Flutter and Dart**. I develop cross-platform applications from product requirements through implementation, integrating APIs, Firebase services, maps, real-time data, notifications, background tasks, and device-level capabilities.
 
-| Signal | Value |
+My software development foundation is in the **MERN stack**, which helps me understand the complete product lifecycle across mobile clients, backend services, databases, and APIs. I also work with the native Android and iOS layers when a Flutter application requires platform-specific functionality.
+
+I care about clean user experiences, maintainable code, reliable application behavior, and building features that solve real problems.
+
+## Core Expertise
+
+| Area | Skills |
 |---|---|
-| Stack I use most | Flutter, Dart, Firebase |
-| Typical features | Auth, payments, maps, notifications, realtime sync |
-| What I optimize first | UX smoothness, startup time, crash-free sessions |
-| Rule I don't break | Solve user pain before adding architecture layers |
+| Mobile Development | Flutter, Dart, responsive UI, app architecture, state management |
+| Mobile Services | Firebase, REST APIs, authentication, real-time data, push notifications |
+| Device Capabilities | Background services, location tracking, geofencing, maps, native integrations |
+| Native Development | Android and iOS platform-side integrations |
+| Web Development | MongoDB, Express.js, React, Node.js |
+| Engineering Tools | Git, GitHub, Postman, Android Studio, VS Code, Figma |
 
-## How I Work
+## Selected Projects
 
-<details>
-<summary><b>01. Product first, patterns second</b></summary>
+### Locafii - Family & Friends Location Tracking
 
-I start from the user flow and business risk, then choose architecture that earns its complexity.
+A real-time location-sharing application designed to help families and friends stay connected and informed.
 
-</details>
+- Create private groups for family members, friends, or trusted contacts
+- Track group members through live location updates
+- Continue location tracking while the application is running in the background
+- Create geofences and receive alerts when a member enters or leaves a defined area
+- Manage permissions and device-level location services for dependable tracking
 
-<details>
-<summary><b>02. Performance is a feature</b></summary>
+### Islamic Utility App
 
-I treat dropped frames, slow startup, and flaky networking as product bugs, not "nice to have" improvements.
+An all-in-one Islamic companion inspired by the practical utility of applications such as Islam360.
 
-</details>
+- Access the Quran with translations for easier reading and understanding
+- Explore Hadith and other Islamic reference content
+- View prayer times and receive prayer reminders
+- Find the Qibla direction using device location and sensors
+- Use daily duas, Islamic calendar features, and other faith-based utilities in one application
 
-<details>
-<summary><b>03. Build for real operations</b></summary>
+### Chor Police - Social Deduction Game
 
-Mobile is part of a bigger system. I care about API contracts, release quality, analytics, and incident recovery.
+A multiplayer social deduction game inspired by Werewolf-style gameplay, built around discussion, strategy, and hidden roles.
 
-</details>
+- Assign players secret roles including Chor, Police, Civilian, and Doctor
+- Support role-based actions and round-based gameplay
+- Create a social experience centered on deduction, accusation, and teamwork
+- Manage game state, player status, and win conditions throughout each session
 
-## Signature Builds
+### Emergency Assistance App
 
-### SafeTap
-Emergency-response app where speed and reliability mattered more than visual polish.
+A safety-focused mobile application that helps users quickly notify trusted contacts during an emergency.
 
-- Role-based emergency workflows
-- Live location and alert propagation
-- Incident reporting with media evidence
+- Send the user's current location to selected loved ones
+- Reduce the steps needed to request help in a stressful situation
+- Share clear emergency alerts and actionable location information
+- Use mobile location and communication capabilities to improve response time
 
-### StripeCart
-E-commerce flow designed to reduce checkout friction and failed payments.
+### Blood Donation App
 
-- Stripe integration with predictable edge-case handling
-- Cart and order state that survives bad networks
-- Conversion-focused checkout journey
+A platform designed to connect blood donors with people who need blood.
 
-### Quran MP3 + Qibla Finder
-Daily-use companion app where reliability and clarity mattered more than flashy UI.
+- Create and manage donor profiles
+- Search for suitable donors by blood group and location
+- Publish blood requests and help recipients find nearby support
+- Improve communication between donors and recipients
 
-- Streaming recitation and prayer alerts
-- Compass-based Qibla direction
-- Hijri calendar and multi-language support
+### Grocery Delivery App
 
-### Face Detection App
-Real-time computer vision app built around on-device responsiveness.
+A mobile commerce application covering the essential grocery ordering journey.
 
-- ML Kit face detection pipeline
-- Fast camera frame handling
-- Lightweight on-device feedback loop
+- Browse products by category
+- Search for items and manage a shopping cart
+- Place orders and track order status
+- Provide a clear, convenient checkout and delivery experience
 
-## Tools I Reach For
+## Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,express,androidstudio,vscode,git,github,postman,figma,swift&perline=7" />
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=111827)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-```mermaid
-mindmap
-  root((Mobile Engineering))
-    App Layer
-      Flutter UI
-      State Management
-      Performance Tuning
-    Platform Layer
-      Android
-      iOS
-      Device APIs
-    Service Layer
-      Firebase
-      Node APIs
-      MongoDB
-    Delivery Layer
-      CI/CD
-      Monitoring
-      Release Quality
-```
-
-## Open Dashboard
+## GitHub Overview
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=CodeXahmar&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXahmar&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=cbd5e1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeXahmar&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=2563EB" alt="Ahmar's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXahmar&layout=compact&hide_border=true&theme=transparent&title_color=2563EB" alt="Ahmar's most used languages" />
 
-[![Streak](https://streak-stats.demolab.com?user=CodeXahmar&theme=transparent&hide_border=true&ring=22d3ee&fire=38bdf8&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=64748b)](https://git.io/streak-stats)
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeXahmar&theme=github_dark" />
-
-</div>
-
-## Activity Feed
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## Contribution Pulse
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeXahmar&bg_color=0f172a&color=93c5fd&line=22d3ee&point=f8fafc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake-dark.svg" />
+  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake.svg" />
 </picture>
 
 </div>
 
-## Connect
+## What I Bring to a Team
 
-If you're building a mobile product and want engineering that balances speed with long-term maintainability, let's talk.
+- Practical experience delivering cross-platform mobile applications
+- Strong understanding of background location, geofencing, and device integrations
+- Ability to work across mobile, backend, and API concerns
+- Product-focused thinking with attention to usability and reliability
+- A willingness to learn, take ownership, and solve unfamiliar technical problems
+
+## Let's Connect
+
+I am open to **Flutter and mobile development opportunities**, freelance projects, and collaborations on useful digital products.
+
+- Email: [codexahmar@gmail.com](mailto:codexahmar@gmail.com)
+- LinkedIn: [linkedin.com/in/ahmaryarkhan](https://www.linkedin.com/in/ahmaryarkhan)
+- GitHub: [github.com/CodeXahmar](https://github.com/CodeXahmar)
 
 <div align="center">
 
-[![Mail](https://img.shields.io/badge/Reach%20Out-codexahmar%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codexahmar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmaryarkhan-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmaryarkhan)
-[![GitHub](https://img.shields.io/badge/GitHub-CodeXahmar-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeXahmar)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22d3ee,50:1d4ed8,100:0f172a&text=Thanks%20for%20visiting%20the%20Command%20Deck&fontColor=f8fafc&fontSize=16&fontAlignY=70" />
+**Building mobile products that are useful, dependable, and ready for real users.**
 
 </div>
