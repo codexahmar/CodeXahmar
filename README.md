@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-banner.png" alt="Ahmar Yar Khan - Flutter Developer and Mobile App Engineer" />
+<img width="100%" src="./assets/github-banner.png" alt="Ahmar Yar Khan - Flutter Developer and Mobile App Engineer" />
 
 <br />
 
