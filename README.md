@@ -173,6 +173,13 @@ I care about clean user experiences, maintainable code, reliable application beh
 
 ---
 
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## Let's Connect
 
 I am open to **Flutter and mobile development opportunities**, freelance projects, and collaborations on useful digital products.
