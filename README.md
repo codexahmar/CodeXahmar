@@ -10,7 +10,6 @@
   <p>
     <a href="mailto:codexahmar@gmail.com"><img src="https://img.shields.io/badge/Email-codexahmar%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/ahmaryarkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ahmaryarkhan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/codexahmar" target="_blank"><img src="https://img.shields.io/badge/GitHub-codexahmar-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.instagram.com/codexahmar" target="_blank"><img src="https://img.shields.io/badge/Instagram-codexahmar-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://github.com/codexahmar"><img src="https://komarev.com/ghpvc/?username=CodeXahmar&style=flat&color=0A66C2&label=Profile+Views" alt="Profile Views" /></a>
   </p>
@@ -68,48 +67,36 @@ passions: Building reliable, user-focused applications that combine thoughtful a
 
 ### 🛠️ Tech Stack & Tooling
 
-<div align="center">
-
-#### 📱 Mobile Development
-<p>
+- **Mobile Development:**  
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat&logo=flutter&logoColor=white" alt="Riverpod" />
   <img src="https://img.shields.io/badge/BLoC-02569B?style=flat&logo=flutter&logoColor=white" alt="BLoC" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS" />
-</p>
 
-#### 🌐 Frontend & UI
-<p>
+- **Frontend & Web:**  
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
 
-#### ⚙️ Backend, Cloud & Databases
-<p>
+- **Backend, Cloud & Databases:**  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
-</p>
 
-#### 🧰 Developer Tools & Environment
-<p>
+- **Developer Tools & Environment:**  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-</div>
 
 ---
 
@@ -261,41 +248,26 @@ passions: Building reliable, user-focused applications that combine thoughtful a
   </table>
 </div>
 
-<br/>
-
 ---
 
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br/>
-
----
-### 📬 Let's Connect
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   Ready to collaborate on mobile applications, client projects,        │
-│   or full-stack engineering? Feel free to reach out directly:           │
-│                                                                         │
-│   • Email:      codexahmar@gmail.com                                    │
-│   • LinkedIn:   linkedin.com/in/ahmaryarkhan                            │
-│   • GitHub:     github.com/codexahmar                                   │
-│   • Instagram:  instagram.com/codexahmar                                │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+### 💡 Daily Engineering Thought
 
 <div align="center">
-  <p>
-    <a href="mailto:codexahmar@gmail.com"><img src="https://img.shields.io/badge/Email-codexahmar%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/ahmaryarkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ahmaryarkhan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/codexahmar" target="_blank"><img src="https://img.shields.io/badge/GitHub-codexahmar-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.instagram.com/codexahmar" target="_blank"><img src="https://img.shields.io/badge/Instagram-codexahmar-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  </p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Programming Quote" />
+</div>
 
-  <p><sub>Ahmar Yar Khan &bull; Mobile Application Engineer & Full-Stack Developer</sub></p>
+<br/>
+
+---
+
+### 📬 Let's Connect & Collaborate
+
+<div align="center">
+  <h3>Have an ambitious mobile app idea or need a scalable full-stack system built?</h3>
+  <p><em>I am open to high-impact mobile development roles, freelance builds, and technical consultations.</em></p>
+  
+  <p>
+    <a href="mailto:codexahmar@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-codexahmar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahmar" /></a>
+    <a href="https://www.linkedin.com/in/ahmaryarkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn_Message-ahmaryarkhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ahmar" /></a>
+  </p>
 </div>
