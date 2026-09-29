@@ -11,7 +11,7 @@
     <a href="mailto:codexahmar@gmail.com"><img src="https://img.shields.io/badge/Email-codexahmar%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/ahmaryarkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ahmaryarkhan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.instagram.com/codexahmar" target="_blank"><img src="https://img.shields.io/badge/Instagram-codexahmar-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://github.com/codexahmar"><img src="https://komarev.com/ghpvc/?username=CodeXahmar&style=flat&color=0A66C2&label=Profile+Views" alt="Profile Views" /></a>
+    <a href="https://github.com/codexahmar"><img src="https://komarev.com/ghpvc/?username=codexahmar&style=flat&color=0A66C2&label=PROFILE+VIEWS" alt="Profile Views" /></a>
   </p>
 
   <p>
