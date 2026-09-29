@@ -28,7 +28,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 💻 Engineering Profile
 
 ```yaml
 name: Ahmar Yar Khan
@@ -100,7 +100,7 @@ passions: Building reliable, user-focused applications that combine thoughtful a
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Production Applications & Case Studies
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -232,7 +232,7 @@ passions: Building reliable, user-focused applications that combine thoughtful a
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Contribution Heatmap & Activity
 
 <div align="center">
   <table width="100%" style="border-collapse: collapse;">
@@ -253,7 +253,11 @@ passions: Building reliable, user-focused applications that combine thoughtful a
 ### 💡 Daily Engineering Thought
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Programming Quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dynamic Programming Quote" />
+  </picture>
 </div>
 
 <br/>
