@@ -248,11 +248,17 @@ passions: Building reliable, user-focused applications that combine thoughtful a
 ### 📊 GitHub Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake.svg" />
-    <img width="100%" alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake.svg" />
-  </picture>
+  <table width="100%" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" style="padding: 20px; background: transparent;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codexahmar/CodeXahmar/output/github-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codexahmar/CodeXahmar/output/github-snake.svg" />
+          <img width="100%" alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/codexahmar/CodeXahmar/output/github-snake.svg" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
