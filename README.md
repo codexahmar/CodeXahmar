@@ -1,195 +1,295 @@
 <div align="center">
+  <img width="100%" src="./assets/github-banner.png" alt="Ahmar Yar Khan - Flutter & Full-Stack Developer Banner" />
 
-<img width="100%" src="./assets/github-banner.png" alt="Ahmar Yar Khan - Flutter Developer and Mobile App Engineer" />
+  <br/><br/>
 
-<br />
+  <h1>Hi, I'm Ahmar Yar Khan 👋</h1>
+  <p><strong>Mobile Application Engineer &bull; Flutter & Dart Specialist &bull; Full-Stack Developer</strong></p>
+  <p><em>Architecting and scaling production mobile applications across diverse domains with Flutter, native integrations, and robust cloud & web backends.</em></p>
 
-I build reliable, user-focused mobile applications with Flutter, Firebase, and native platform integrations.
+  <p>
+    <a href="mailto:codexahmar@gmail.com"><img src="https://img.shields.io/badge/Email-codexahmar%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/ahmaryarkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ahmaryarkhan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/codexahmar" target="_blank"><img src="https://img.shields.io/badge/GitHub-codexahmar-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.instagram.com/codexahmar" target="_blank"><img src="https://img.shields.io/badge/Instagram-codexahmar-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://github.com/codexahmar"><img src="https://komarev.com/ghpvc/?username=CodeXahmar&style=flat&color=0A66C2&label=Profile+Views" alt="Profile Views" /></a>
+  </p>
 
-[![Email](https://img.shields.io/badge/Email-codexahmar%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:codexahmar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmar_Yar_Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmaryarkhan)
-[![GitHub](https://img.shields.io/badge/GitHub-CodeXahmar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeXahmar)
-[![Profile Views](https://komarev.com/ghpvc/?username=CodeXahmar&style=flat-square&color=2563EB)](https://github.com/CodeXahmar)
+  <p>
+    <code>3+ Years Experience</code> &bull;
+    <code>Flutter & Dart</code> &bull;
+    <code>Android & iOS</code> &bull;
+    <code>Clean Architecture</code> &bull;
+    <code>Firebase & Supabase</code> &bull;
+    <code>MERN Stack</code>
+  </p>
+</div>
 
-<br />
+<br/>
 
-`2+ Years Experience` · `Flutter & Dart` · `Firebase` · `MERN Stack` · `Native Integrations`
+---
+
+### 🧑‍💻 About Me
+
+```yaml
+name: Ahmar Yar Khan
+role: Mobile Application Engineer (Flutter/Dart) & Full-Stack Developer
+experience: 3+ Years Professional Development
+
+core_strengths:
+  architecture_state_management:
+    - Clean Architecture, Feature-Based Modular Structure, SOLID
+    - BLoC, Riverpod, Provider, GetX
+  mobile_native:
+    - Flutter & Dart (Cross-Platform Mobile Development)
+    - Native Android & iOS Integrations (Platform Channels)
+    - Background Services, Push Notifications, Deep Linking
+  telemetry_realtime:
+    - Live Geolocation Tracking, Polygon Geofencing, Location Sharing
+    - Driver/Rider Workflows & WebSocket / Firestore Real-Time Data Sync
+  backend_cloud:
+    - Firebase (Auth, Firestore, Cloud Functions, FCM, Cloud Storage) & Supabase
+    - Node.js, Express.js, MongoDB & RESTful APIs
+  web_fullstack:
+    - React, Tailwind CSS, Responsive Web & Admin Dashboards
+  services_integrations:
+    - Payment Gateways (Stripe, In-App Purchases), Google Maps APIs
+    - Gemini AI, AdMob, Google Sign-In, OTP & Third-Party Services
+  product_engineering:
+    - Google Play Store & Apple App Store Publishing & ASO
+    - Offline-First Architecture, Localization (i18n), Performance Profiling, CI/CD
+
+passions: Building reliable, user-focused applications that combine thoughtful architecture, practical functionality, and polished user experiences
+```
+
+<br/>
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+#### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat&logo=flutter&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=flat&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS" />
+</p>
+
+#### 🌐 Frontend & UI
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+#### ⚙️ Backend, Cloud & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
+
+#### 🧰 Developer Tools & Environment
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 </div>
 
 ---
 
-## Professional Summary
+### 🚀 Featured Projects
 
-I am a **mobile application developer with 2+ years of professional experience**, specializing in **Flutter and Dart**. I develop cross-platform applications from product requirements through implementation, integrating APIs, Firebase services, maps, real-time data, notifications, background tasks, and device-level capabilities.
-
-My software development foundation is in the **MERN stack**, which helps me understand the complete product lifecycle across mobile clients, backend services, databases, and APIs. I also work with the native Android and iOS layers when a Flutter application requires platform-specific functionality.
-
-I care about clean user experiences, maintainable code, reliable application behavior, and building features that solve real problems.
-
----
-
-## Core Expertise
-
-| Area | Skills |
-|---|---|
-| **Mobile Development** | Flutter, Dart, responsive UI, app architecture, state management |
-| **Mobile Services** | Firebase, REST APIs, authentication, real-time data, push notifications |
-| **Device Capabilities** | Background services, location tracking, geofencing, maps, native integrations |
-| **Native Development** | Android and iOS platform-side integrations |
-| **Web Development** | MongoDB, Express.js, React, Node.js |
-| **Engineering Tools** | Git, GitHub, Postman, Android Studio, VS Code, Figma |
-
----
-
-## Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>Locafii</h3>
-<p><strong>Family &amp; Friends Location Tracking</strong> · <code>Published</code></p>
-<p>A real-time location-sharing application designed to help families and friends stay connected and informed.</p>
-<p><a href="https://play.google.com/store/apps/details?id=com.codexahmar.locafii"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Get Locafii on Google Play" /></a></p>
-<ul>
-<li>Create private groups for family members, friends, or trusted contacts</li>
-<li>Track group members through live location updates</li>
-<li>Continue location tracking while the application is running in the background</li>
-<li>Create geofences and receive alerts when a member enters or leaves a defined area</li>
-<li>Manage permissions and device-level location services for dependable tracking</li>
-</ul>
-</td>
-<td width="50%" valign="top">
-<h3>Islamic Utility App</h3>
-<p><strong>Quran, Prayer &amp; Daily Islamic Utilities</strong></p>
-<p>An all-in-one Islamic companion inspired by the practical utility of applications such as Islam360.</p>
-<ul>
-<li>Access the Quran with translations for easier reading and understanding</li>
-<li>Explore Hadith and other Islamic reference content</li>
-<li>View prayer times and receive prayer reminders</li>
-<li>Find the Qibla direction using device location and sensors</li>
-<li>Use daily duas, Islamic calendar features, and other faith-based utilities in one application</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>Chor Police</h3>
-<p><strong>Multiplayer Social Deduction Game</strong></p>
-<p>A multiplayer social deduction game inspired by Werewolf-style gameplay, built around discussion, strategy, and hidden roles.</p>
-<ul>
-<li>Assign players secret roles including Chor, Police, Civilian, and Doctor</li>
-<li>Support role-based actions and round-based gameplay</li>
-<li>Create a social experience centered on deduction, accusation, and teamwork</li>
-<li>Manage game state, player status, and win conditions throughout each session</li>
-</ul>
-</td>
-<td width="50%" valign="top">
-<h3>Emergency Assistance App</h3>
-<p><strong>Personal Safety &amp; Emergency Location Sharing</strong></p>
-<p>A safety-focused mobile application that helps users quickly notify trusted contacts during an emergency.</p>
-<ul>
-<li>Send the user's current location to selected loved ones</li>
-<li>Reduce the steps needed to request help in a stressful situation</li>
-<li>Share clear emergency alerts and actionable location information</li>
-<li>Use mobile location and communication capabilities to improve response time</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>Blood Donation App</h3>
-<p><strong>Donor Discovery &amp; Blood Requests</strong></p>
-<p>A platform designed to connect blood donors with people who need blood.</p>
-<ul>
-<li>Create and manage donor profiles</li>
-<li>Search for suitable donors by blood group and location</li>
-<li>Publish blood requests and help recipients find nearby support</li>
-<li>Improve communication between donors and recipients</li>
-</ul>
-</td>
-<td width="50%" valign="top">
-<h3>Grocery Delivery App</h3>
-<p><strong>Mobile Commerce &amp; Order Delivery</strong></p>
-<p>A mobile commerce application covering the essential grocery ordering journey.</p>
-<ul>
-<li>Browse products by category</li>
-<li>Search for items and manage a shopping cart</li>
-<li>Place orders and track order status</li>
-<li>Provide a clear, convenient checkout and delivery experience</li>
-</ul>
-</td>
-</tr>
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3 align="left">
+        <img src="./assets/locafii.png" width="28" height="28" style="vertical-align: middle; border-radius: 6px;" alt="Locafii Logo" />
+        Locafii: Family GPS Tracker
+      </h3>
+      <p><strong>Real-Time Family & Group Location Tracking</strong> &bull; <code>Published App</code></p>
+      <p><em>Location-based safety platform for live group tracking, places management, and perimeter alerts.</em></p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.codexahmar.locafii" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+      </p>
+      <ul>
+        <li>Real-time multi-user location sharing and live tracking with Firebase</li>
+        <li>Continuous background location service with battery-conscious updates</li>
+        <li>Place-based geofencing triggers with instant entry and exit alerts</li>
+        <li>Group invitations, circle management, and live device battery status</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3 align="left">
+        <img src="./assets/islamplus.png" width="28" height="28" style="vertical-align: middle; border-radius: 6px;" alt="Islam Plus Logo" />
+        Islam Plus: Quran, Azan, Qibla
+      </h3>
+      <p><strong>Quran, Prayer & Islamic Companion</strong> &bull; <code>Published App</code></p>
+      <p><em>Multi-language Islamic suite integrating Quran, Hadith, prayer tools, and daily spiritual features.</em></p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.codexahmar.islamplus" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/AdMob-EA4335?style=flat&logo=googleadmob&logoColor=white" alt="AdMob" />
+      </p>
+      <ul>
+        <li>Quran reader with translations, audio recitations, bookmarks, and offline mode</li>
+        <li>Prayer times calculation, Qibla compass, Azkar, Tasbeeh, and Hadith references</li>
+        <li>Background prayer push notifications with customizable alert schedules</li>
+        <li>AI Islamic Assistant with multi-language conversation support</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3 align="left">
+        <img src="./assets/studybuddy.png" width="28" height="28" style="vertical-align: middle; border-radius: 6px;" alt="Study Buddy Logo" />
+        Study Buddy: AI Study Planner
+      </h3>
+      <p><strong>AI Study Planner & Learning Assistant</strong> &bull; <code>Published App</code></p>
+      <p><em>AI study companion transforming courses, exams, and milestones into structured daily plans.</em></p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.codexahmar.studybuddy" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white" alt="Gemini AI" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+      </p>
+      <ul>
+        <li>AI-generated schedules tailored by course syllabus, exam dates, and capacity</li>
+        <li>Automated flashcard and quiz generator for active recall and self-testing</li>
+        <li>Interactive AI Tutor supporting contextual academic questions and voice input</li>
+        <li>Exam countdowns, syllabus progress tracking, notes, and study analytics</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3 align="left">
+        <img src="./assets/mishwarak.jpeg" width="28" height="28" style="vertical-align: middle; border-radius: 6px;" alt="Mishwarak Logo" />
+        Mishwarak
+      </h3>
+      <p><strong>Ride-Hailing & Dispatch Platform</strong> &bull; <code>Client Project</code></p>
+      <p><em>Ride-hailing platform architected with rider, driver, and admin dispatch workflows.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white" alt="Mapbox" />
+      </p>
+      <ul>
+        <li>Dedicated rider and driver apps with location-based pickup matching</li>
+        <li>Radius-expansion driver discovery and real-time ride status lifecycle</li>
+        <li>Secure OTP phone authentication, interactive maps, and live trip tracking</li>
+        <li>Supabase-powered real-time backend with centralized administrative dashboard</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3 align="left">
+        <img src="./assets/chorpolice.png" width="28" height="28" style="vertical-align: middle; border-radius: 6px;" alt="Chor Police Logo" />
+        Chor Police: Party Game
+      </h3>
+      <p><strong>Multiplayer Social Deduction Game</strong> &bull; <code>Published App</code></p>
+      <p><em>Real-time multiplayer mobile game centered on secret role distribution and synchronized state.</em></p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.codexahmar.chorpolice" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" alt="Socket.io" />
+      </p>
+      <ul>
+        <li>Real-time multiplayer lobbies with live room code generation and player sync</li>
+        <li>Dynamic secret role distribution, voting rounds, turn timers, and win conditions</li>
+        <li>Synchronized client-server state handling via WebSocket event pipelines</li>
+        <li>Responsive game layout with fluid turn-based UI transitions</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3 align="left">
+        🛡️ Emergency SOS & Safety Dispatch
+      </h3>
+      <p><strong>Personal Safety & Emergency Broadcast</strong> &bull; <code>Mobile App</code></p>
+      <p><em>Safety application built for instant distress broadcasting and emergency location sharing.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=googlemaps&logoColor=white" alt="Google Maps" />
+      </p>
+      <ul>
+        <li>One-tap panic trigger dispatching immediate coordinates to emergency contacts</li>
+        <li>Location-based emergency contact dispatch and interactive map display</li>
+        <li>Continuous background GPS tracking during active SOS alert states</li>
+        <li>Streamlined workflow designed for low-stress, rapid operation in emergencies</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
+
+<br/>
+
 ---
 
-## Technology Stack
+### 📊 GitHub Activity
 
 <div align="center">
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111827)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-**Web & Backend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake.svg" />
+    <img width="100%" alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake.svg" />
+  </picture>
 </div>
 
----
-
-## GitHub Overview
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake.svg" />
-  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/CodeXahmar/CodeXahmar/output/github-snake.svg" />
-</picture>
-
-</div>
+<br/>
 
 ---
 
-## What I Bring to a Team
-
-- Practical experience delivering cross-platform mobile applications
-- Strong understanding of background location, geofencing, and device integrations
-- Ability to work across mobile, backend, and API concerns
-- Product-focused thinking with attention to usability and reliability
-- A willingness to learn, take ownership, and solve unfamiliar technical problems
-
----
-
-## ⚡ Recent Activity
+### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+<br/>
+
 ---
+### 📬 Let's Connect
 
-## Let's Connect
-
-I am open to **Flutter and mobile development opportunities**, freelance projects, and collaborations on useful digital products.
-
-- Email: [codexahmar@gmail.com](mailto:codexahmar@gmail.com)
-- LinkedIn: [linkedin.com/in/ahmaryarkhan](https://www.linkedin.com/in/ahmaryarkhan)
-- GitHub: [github.com/CodeXahmar](https://github.com/CodeXahmar)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   Ready to collaborate on mobile applications, client projects,        │
+│   or full-stack engineering? Feel free to reach out directly:           │
+│                                                                         │
+│   • Email:      codexahmar@gmail.com                                    │
+│   • LinkedIn:   linkedin.com/in/ahmaryarkhan                            │
+│   • GitHub:     github.com/codexahmar                                   │
+│   • Instagram:  instagram.com/codexahmar                                │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
+  <p>
+    <a href="mailto:codexahmar@gmail.com"><img src="https://img.shields.io/badge/Email-codexahmar%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/ahmaryarkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ahmaryarkhan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/codexahmar" target="_blank"><img src="https://img.shields.io/badge/GitHub-codexahmar-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.instagram.com/codexahmar" target="_blank"><img src="https://img.shields.io/badge/Instagram-codexahmar-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
 
-**Building mobile products that are useful, dependable, and ready for real users.**
-
+  <p><sub>Ahmar Yar Khan &bull; Mobile Application Engineer & Full-Stack Developer</sub></p>
 </div>
