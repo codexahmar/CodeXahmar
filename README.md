@@ -1,26 +1,28 @@
 <div align="center">
-  <img width="100%" src="./assets/github-banner.png" alt="Ahmar Yar Khan - Flutter & Full-Stack Developer Banner" />
+  <img width="100%" src="./assets/github-banner.png" alt="Ahmar Yar Khan - Software Engineer Banner" />
 
   <br/><br/>
 
   <h1>Hi, I'm Ahmar Yar Khan 👋</h1>
-  <p><strong>Mobile Application Engineer &bull; Flutter & Dart Specialist &bull; Full-Stack Developer</strong></p>
-  <p><em>Architecting and scaling production mobile applications across diverse domains with Flutter, native integrations, and robust cloud & web backends.</em></p>
+  <p><strong>Software Engineer &bull; Full-Stack (MERN) & Mobile (Flutter) Developer</strong></p>
+  <p><em>Engineering reliable, scalable software applications across web, mobile, and cloud ecosystems with MERN stack, Flutter, and robust backend architectures.</em></p>
 
   <p>
     <a href="mailto:codexahmar@gmail.com"><img src="https://img.shields.io/badge/Email-codexahmar%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/ahmaryarkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ahmaryarkhan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/codexahmar" target="_blank"><img src="https://img.shields.io/badge/GitHub-codexahmar-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.instagram.com/codexahmar" target="_blank"><img src="https://img.shields.io/badge/Instagram-codexahmar-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://github.com/codexahmar"><img src="https://komarev.com/ghpvc/?username=codexahmar&style=flat&color=0A66C2&label=PROFILE+VIEWS" alt="Profile Views" /></a>
   </p>
 
   <p>
+    <code>Software Engineer</code> &bull;
     <code>3+ Years Experience</code> &bull;
-    <code>Flutter & Dart</code> &bull;
+    <code>MERN Stack</code> &bull;
+    <code>Flutter</code> &bull;
     <code>Android & iOS</code> &bull;
     <code>Clean Architecture</code> &bull;
-    <code>Firebase & Supabase</code> &bull;
-    <code>MERN Stack</code>
+    <code>REST APIs & Cloud</code>
   </p>
 </div>
 
@@ -28,37 +30,39 @@
 
 ---
 
-### 💻 Engineering Profile
+### 💻 Software Engineering Profile
 
 ```yaml
 name: Ahmar Yar Khan
-role: Mobile Application Engineer (Flutter/Dart) & Full-Stack Developer
+role: Software Engineer (Full-Stack Web & Mobile)
 experience: 3+ Years Professional Development
 
 core_strengths:
-  architecture_state_management:
-    - Clean Architecture, Feature-Based Modular Structure, SOLID
-    - BLoC, Riverpod, Provider, GetX
-  mobile_native:
-    - Flutter & Dart (Cross-Platform Mobile Development)
+  software_architecture:
+    - Clean Architecture, Feature-Based Modular Structure, SOLID Principles
+    - State Management (BLoC, Riverpod, Provider, GetX)
+  web_fullstack_mern:
+    - React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+    - Node.js, Express.js, MongoDB & RESTful API Integration
+    - Responsive Web Applications & Centralized Admin Dashboards
+  mobile_engineering:
+    - Flutter (Cross-Platform Mobile Development - iOS & Android)
     - Native Android & iOS Integrations (Platform Channels)
     - Background Services, Push Notifications, Deep Linking
-  telemetry_realtime:
-    - Live Geolocation Tracking, Polygon Geofencing, Location Sharing
-    - Driver/Rider Workflows & WebSocket / Firestore Real-Time Data Sync
-  backend_cloud:
+  backend_cloud_databases:
+    - Node.js, Express.js, MongoDB, RESTful APIs
     - Firebase (Auth, Firestore, Cloud Functions, FCM, Cloud Storage) & Supabase
-    - Node.js, Express.js, MongoDB & RESTful APIs
-  web_fullstack:
-    - React, Tailwind CSS, Responsive Web & Admin Dashboards
+  realtime_telemetry:
+    - Live Geolocation Tracking, Polygon Geofencing, Location Sharing
+    - Driver/Rider Workflows & WebSocket (Socket.io) / Firestore Real-Time Data Sync
   services_integrations:
     - Payment Gateways (Stripe, In-App Purchases), Google Maps APIs
     - Gemini AI, AdMob, Google Sign-In, OTP & Third-Party Services
   product_engineering:
     - Google Play Store & Apple App Store Publishing & ASO
-    - Offline-First Architecture, Localization (i18n), Performance Profiling, CI/CD
+    - Offline-First Architecture, Localization (i18n), Performance Profiling
 
-passions: Building reliable, user-focused applications that combine thoughtful architecture, practical functionality, and polished user experiences
+passions: Building reliable, scalable software applications that combine thoughtful architecture, practical functionality, and polished user experiences
 ```
 
 <br/>
@@ -67,15 +71,7 @@ passions: Building reliable, user-focused applications that combine thoughtful a
 
 ### 🛠️ Tech Stack & Tooling
 
-- **Mobile Development:**  
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat&logo=flutter&logoColor=white" alt="Riverpod" />
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=flat&logo=flutter&logoColor=white" alt="BLoC" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS" />
-
-- **Frontend & Web:**  
+- **Frontend & Web (MERN):**  
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
@@ -89,10 +85,18 @@ passions: Building reliable, user-focused applications that combine thoughtful a
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" alt="Socket.io" />
+
+- **Mobile Development:**  
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat&logo=flutter&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=flat&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS" />
 
 - **Developer Tools & Environment:**  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -100,27 +104,28 @@ passions: Building reliable, user-focused applications that combine thoughtful a
 
 ---
 
-### 🚀 Production Applications & Case Studies
+### 🚀 Production Applications & Featured Systems
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="padding: 16px;">
       <h3 align="left">
         <img src="./assets/locafii.png" width="28" height="28" style="vertical-align: middle; border-radius: 6px;" alt="Locafii Logo" />
-        Locafii: Family GPS Tracker
+        Locafii: Family GPS Tracker & Web Dashboard
       </h3>
-      <p><strong>Real-Time Family & Group Location Tracking</strong> &bull; <code>Published App</code></p>
-      <p><em>Location-based safety platform for live group tracking, places management, and perimeter alerts.</em></p>
+      <p><strong>Real-Time Family Tracking & React.js Admin Console</strong> &bull; <code>Published App & Web</code></p>
+      <p><em>Location safety platform featuring live mobile tracking, perimeter alerts, and a React.js monitoring dashboard.</em></p>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.codexahmar.locafii" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white" alt="Google Play" /></a>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
       </p>
       <ul>
-        <li>Real-time multi-user location sharing and live tracking with Firebase</li>
-        <li>Continuous background location service with battery-conscious updates</li>
-        <li>Place-based geofencing triggers with instant entry and exit alerts</li>
-        <li>Group invitations, circle management, and live device battery status</li>
+        <li>Real-time multi-user location sharing and live circle synchronization with Firebase</li>
+        <li>Responsive React.js web dashboard for centralized family monitoring and circle management</li>
+        <li>Continuous background location service with battery-conscious GPS updates</li>
+        <li>Place-based geofencing triggers with instant perimeter alerts and device battery status</li>
       </ul>
     </td>
     <td width="50%" valign="top" style="padding: 16px;">
@@ -168,20 +173,21 @@ passions: Building reliable, user-focused applications that combine thoughtful a
     <td width="50%" valign="top" style="padding: 16px;">
       <h3 align="left">
         <img src="./assets/mishwarak.jpeg" width="28" height="28" style="vertical-align: middle; border-radius: 6px;" alt="Mishwarak Logo" />
-        Mishwarak
+        Mishwarak: Ride-Hailing & Dispatch Platform
       </h3>
-      <p><strong>Ride-Hailing & Dispatch Platform</strong> &bull; <code>Client Project</code></p>
-      <p><em>Ride-hailing platform architected with rider, driver, and admin dispatch workflows.</em></p>
+      <p><strong>Ride-Hailing Ecosystem & React.js Admin Dashboard</strong> &bull; <code>Client Project</code></p>
+      <p><em>On-demand mobility system with rider/driver mobile apps and a centralized React.js dispatch console.</em></p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
         <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white" alt="Mapbox" />
       </p>
       <ul>
-        <li>Dedicated rider and driver apps with location-based pickup matching</li>
-        <li>Radius-expansion driver discovery and real-time ride status lifecycle</li>
-        <li>Secure OTP phone authentication, interactive maps, and live trip tracking</li>
-        <li>Supabase-powered real-time backend with centralized administrative dashboard</li>
+        <li>Dedicated rider and driver Flutter apps with radius-expansion pickup matching</li>
+        <li>Centralized React.js administrative dashboard for live trip surveillance, dispatch, and analytics</li>
+        <li>Supabase real-time backend with secure OTP phone authentication and trip lifecycle states</li>
+        <li>Interactive maps with live telemetry, turn-by-turn routing, and automated fare calculation</li>
       </ul>
     </td>
   </tr>
@@ -208,25 +214,25 @@ passions: Building reliable, user-focused applications that combine thoughtful a
     </td>
     <td width="50%" valign="top" style="padding: 16px;">
       <h3 align="left">
-        🛡️ Emergency SOS & Safety Dispatch
+        🛡️ Emergency SOS & Safety Dispatch Dashboard
       </h3>
-      <p><strong>Personal Safety & Emergency Broadcast</strong> &bull; <code>Mobile App</code></p>
-      <p><em>Safety application built for instant distress broadcasting and emergency location sharing.</em></p>
+      <p><strong>Personal Safety Broadcast & React.js Emergency Console</strong> &bull; <code>Mobile & Web Dashboard</code></p>
+      <p><em>Emergency broadcast platform integrating instant mobile panic alerts with a React.js monitoring dashboard.</em></p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
         <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=googlemaps&logoColor=white" alt="Google Maps" />
       </p>
       <ul>
-        <li>One-tap panic trigger dispatching immediate coordinates to emergency contacts</li>
-        <li>Location-based emergency contact dispatch and interactive map display</li>
-        <li>Continuous background GPS tracking during active SOS alert states</li>
-        <li>Streamlined workflow designed for low-stress, rapid operation in emergencies</li>
+        <li>One-tap panic trigger dispatching immediate coordinates and live distress telemetry</li>
+        <li>React.js emergency response dashboard with interactive map view for incident tracking</li>
+        <li>Continuous background GPS tracking and automated distress broadcast during active alerts</li>
+        <li>Low-latency emergency contact routing and streamlined, low-stress operational interface</li>
       </ul>
     </td>
   </tr>
 </table>
-
 
 <br/>
 
@@ -267,11 +273,12 @@ passions: Building reliable, user-focused applications that combine thoughtful a
 ### 📬 Let's Connect & Collaborate
 
 <div align="center">
-  <h3>Have an ambitious mobile app idea or need a scalable full-stack system built?</h3>
-  <p><em>I am open to high-impact mobile development roles, freelance builds, and technical consultations.</em></p>
+  <h3>Have an ambitious software idea, web application, or mobile project?</h3>
+  <p><em>I am open to Software Engineering roles, full-stack MERN & mobile development, freelance builds, and technical consultations.</em></p>
   
   <p>
     <a href="mailto:codexahmar@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-codexahmar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahmar" /></a>
     <a href="https://www.linkedin.com/in/ahmaryarkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn_Message-ahmaryarkhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ahmar" /></a>
+    <a href="https://github.com/codexahmar" target="_blank"><img src="https://img.shields.io/badge/GitHub_Profile-codexahmar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Ahmar" /></a>
   </p>
 </div>
